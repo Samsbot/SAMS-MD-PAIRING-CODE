@@ -59,12 +59,12 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 	
 				   let SIGMA_MD_TEXT = `
-*𝘒𝘌𝘐𝘛𝘏 𝘚𝘌𝘚𝘚𝘐𝘖𝘕 𝘙𝘜𝘕𝘕𝘐𝘕𝘎*
-*𝘒𝘌𝘐𝘛𝘏 𝘛𝘌𝘊𝘏*
-*𝙊𝙒𝙉𝙀𝙍 : 𝘒𝘌𝘐𝘛𝘏 𝘒𝘌𝘐𝘡𝘡𝘈𝘏*
+*SAMS SESSION RUNNING*
+*SAMS MD*
+*𝙊𝙒𝙉𝙀𝙍 : SAMS LAURENT*
 ____________________________________
 ╔════◇
-║『 𝗞𝗘𝗜𝗧𝗛 𝗠𝗗 𝙄𝙎 𝙍𝙀𝘼𝘿𝙔 𝙏𝙊 𝘿𝙀𝙋𝙇𝙊𝙔』
+║『 SAMS MD IS READY TO DEPLOY』
 ║ OK YOUR SESSION IS READY COPY IT  
 ║ AND HOST IT ON HEROKU.
 ╚════════════════════╝
@@ -72,19 +72,19 @@ ____________________________________
 ║ 『••• OWNER INFO •••』
 ║ ❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _https://www.youtube.com/@keithkeizzah_
 
-║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/254748387615_
+║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/254743995989_
 
-║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/keithkeizzah/hunchoV8_
+║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/Samsbot/SAMS-MD_
 
 ║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/KeEYrEX8UDdGD4m4GbdHaA_
 
-║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47_
+║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VafWZf5GufInRAgb063L_
 
-║ ❒ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/keizzah_keith_
+║ ❒ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/invites/contact/?i=65gwgpbc51vq&utm_content=u6jt87c_
 
 ║ 🐯🐯🐯
 ╚════════════════════╝ 
- *©𝗞𝗘𝗜𝗧𝗛 𝗧𝗘𝗖𝗛*
+ *©Sams Laurent*
 ___________________________________
 
 Don't Forget To Give Star⭐ To My Repo`
